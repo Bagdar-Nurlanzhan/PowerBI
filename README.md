@@ -5,7 +5,16 @@
 An interactive multi-page Power BI report built for TrustCore Bank, a fictional retail bank serving 800,000+ customers across major Indian cities. The report transforms raw transactional data into actionable business insights for management, branch managers, and data analysts.
 
 ## Dashboard Preview
-![Overview](screenshots/overview.png)
+## Screenshots
+
+### Overview
+![Overview](overview.png)
+
+### Customer Analysis
+![Customer Analysis](customer_analysis.png)
+
+### Transaction Details
+![Transaction Details](transaction_details.png)
 
 ## Business Questions Answered
 - Which cities generate the highest transaction volumes?
